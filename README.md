@@ -9,6 +9,7 @@
 
 * [![Quarkus][Quarkus.com]][Quarkus-url]
 * [![Springboot][Springboot.com]][Springboot-url]
+* [![FastAPI][fastapi.com]][FastAPI-url]
 * [![React][React.js]][React-url]
 * [![Next][Next.js]][Next-url]
 * [![Next][MySQL.com]][MySQL-url]
@@ -50,3 +51,5 @@ Fork the repository and create a pull request. Don't forget to give the project 
 [Quarkus-url]: https://quarkus.io/
 [MySQL.com]: https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white
 [MySQL-url]: https://www.mysql.com/
+[fastapi.com]: https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white
+[FastAPI-url]: https://fastapi.tiangolo.com/
