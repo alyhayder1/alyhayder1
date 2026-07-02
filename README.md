@@ -36,7 +36,7 @@ Fork the repository and create a pull request. Don't forget to give the project 
   <img src="https://contrib.rocks/image?repo=alyhayder1/alyhayder1" />
 </a>
 
-<a href="https://github.com/alyhayder1/alyhayder1/graphs/contributors">
+<a href="https://github.com/thebinsohail">
   <img src="https://contrib.rocks/image?repo=thebinsohail/thebinsohail" />
 </a>
 
